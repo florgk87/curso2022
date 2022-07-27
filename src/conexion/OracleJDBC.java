@@ -19,7 +19,7 @@ public class OracleJDBC{
 	private final String SQL_CREATE = "CREATE DATABASE";
 
 	
-	
+	  
 
 	public static void main(String[] argV) {
 		conn = null;
